@@ -12,9 +12,11 @@
 <h2>Instruções de instalação</h2>
 <p>Realize download deste repositório como comando:</p>
  `git clone https://github.com/Italo-Roberto/video_download.git`
+
 <br>
 <p>Após os dowload do repositório é necessário instalar os pacotes resonsáveis por rodar o programa, abra o cmd (ou terminal), acesse a pasta do programa e digite o comando:</p>
  `pip install -r requirements.txt`
+
 <br>
 <p>Em seguida se estiver utilizando Windows, é possível gerar um executável para abrir o programa:</p>
  `pyinstaller app.py`
