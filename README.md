@@ -10,7 +10,7 @@
     <li>Compatile with Linux, Mac and Windows.</li>
 </ul>
 
-<h2>INstallations instructions</h2>
+<h2>Installation instructions</h2>
 <p>Clone this repository for your machine:</p>
  `git clone https://github.com/Italo-Roberto/video_download.git`
 
