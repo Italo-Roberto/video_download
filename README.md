@@ -1,31 +1,31 @@
 <h1>Youtube Video Download</h1>
 <img src="https://buzzneers.com/wp-content/uploads/2019/10/ytb_pyt.jpg" width="500px" height="300px" alt="Python + Youtube">
 
-<p>Software de download de vídeos do youtube utlizando Python. Com este programa é possível baixar vídeos gratuitamente do youtube sem a necessidade da instalação de ferramentas de terceiros ou exibição de anuncios.</p>
+<p>Software for youtube video download usging Python. With this tool it's possible dowload free videos from youtube doesn't necessary install any other app or extension.</p>
 <hr>
 
-<h2>Requisitos:</h2>
+<h2>Requiriments:</h2>
 <ul>
-    <li>Python 3.6 ou superios instalado.</li>
-    <li>Compatível com sistemas Linux, Mac e Windows.</li>
+    <li>Python 3.6 or upper installed.</li>
+    <li>Compatile with Linux, Mac and Windows.</li>
 </ul>
 
-<h2>Instruções de instalação</h2>
-<p>Realize download deste repositório como comando:</p>
+<h2>INstallations instructions</h2>
+<p>Clone this repository for your machine:</p>
  `git clone https://github.com/Italo-Roberto/video_download.git`
 
 <br>
-<p>Após os dowload do repositório é necessário instalar os pacotes resonsáveis por rodar o programa, abra o cmd (ou terminal), acesse a pasta do programa e digite o comando:</p>
+<p>After repository download is finnish you must to be install all packages for running this app. Open your prompt command inside repository folder, and write this command below:</p>
  `pip install -r requirements.txt`
 
 <br>
-<p>Em seguida se estiver utilizando Windows, é possível gerar um executável para abrir o programa:</p>
+<p>If you using windows, you must be generate a .exe application with command below:</p>
  `pyinstaller app.py`
 <br>
 
-<strong>Observações</strong>
+<strong>Observations</strong>
 <ul>
-    <li>Software Livre, baseado na liscença GPLv3</li>
-    <li>Este software é baseado neste projeto: <a href="https://www.geeksforgeeks.org/create-gui-for-downloading-youtube-video-using-python/" target="_blank" rel="noopener noreferrer">Link</a></li>
+    <li>Free software using GPLv3</li>
+    <li>THis sfotware based on this project: <a href="https://www.geeksforgeeks.org/create-gui-for-downloading-youtube-video-using-python/" target="_blank" rel="noopener noreferrer">Link</a></li>
 </ul>
 
